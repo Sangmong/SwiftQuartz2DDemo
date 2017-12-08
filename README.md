@@ -1,2 +1,3 @@
 # SwiftQuartz2DDemo
- iOS绘图demo
+ A iOS demo by quartz2d use obj-C
+ 
